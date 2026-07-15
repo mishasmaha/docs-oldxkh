@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-qt7kob.rtb-system.online/sitemap.xml
